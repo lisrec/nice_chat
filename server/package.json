@@ -1,0 +1,11 @@
+{
+  "name": "nice_chat-server",
+  "version": "1.0.0",
+  "description": "Server for Nice Chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lisrec",
+  "license": "ISC"
+}
